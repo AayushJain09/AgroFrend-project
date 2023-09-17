@@ -13,6 +13,6 @@
     "frontend": "cd ReactWebsite && npm start ",
     "dev": "concurrently \"npm run backend\" \"npm run frontend\""
   },
-  "author": "Aman Dwivedi",
+  "author": "Aayush",
   "license": "MIT"
 }
